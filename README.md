@@ -1,19 +1,19 @@
-#  LeetCode pero este repo es para mi actividad Individual
+#  Individual LeetCode activity
 
-> Solucion al problema ![46. Permutations](https://leetcode.com/problems/permutations/description/) y ![2610. Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)
-
----
-
-##  Tecnologías utilizadas
-
--  Lenguajes: **Python / Java / Typescript** 
+> Solutions for: [46. Permutations](https://leetcode.com/problems/permutations/description/) and [2610. Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)
 
 ---
 
-##  Capturas de Pantalla (opcional)
+##  Technologies Used
 
-| Inicio | Funcionalidad |
+-  **Languages**: Python / Java / Typescript 
+
+---
+
+##  Screenshots
+
+| Permutations | Convert An Array |
 |--------|----------------|
-| ![Inicio](direccion/a/la/imagen) | ![Funcionalidad](docs/img/funcionalidad.png/po/ejemplo) |
+| ![Permutation](Permutations/permutations.png) | ![Convert Array](Convert-Array/convert-array.png) |
 
 ---
